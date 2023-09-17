@@ -1,1 +1,6 @@
-{}
+{
+  "/page": "app/page.js",
+  "/frontend/page": "app/frontend/page.js",
+  "/backend/page": "app/backend/page.js",
+  "/frontend/frameworks/page": "app/frontend/frameworks/page.js"
+}
